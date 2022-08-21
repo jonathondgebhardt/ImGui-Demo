@@ -1,0 +1,10 @@
+{
+  "name": "Launch",
+  "type": "cppdbg",
+  "request": "launch",
+  "program": "${workspaceFolder}/build/ImGuiDemo",
+  "stopAtEntry": "false",
+  "linux": {
+    "MIMode": "gdb"
+  }
+}
